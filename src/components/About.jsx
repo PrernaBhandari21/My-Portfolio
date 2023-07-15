@@ -11,23 +11,13 @@ const About = () => {
         </div>
 
         <p className="text-base md:text-xl mt-10 md:mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        I have a strong passion for web development, which I began exploring during the 6th semester of my college. My first internship at Thales allowed me to work on Angular and develop a Single Page Application (SPA) that utilized JSON data to populate forms. Subsequently, I embarked on a 6-month internship at Build With Innovation, where I gained valuable experience by working on live projects, replicating Figma designs, and utilizing Firebase as the backend along with Angular and React for the frontend.
         </p>
 
         <br />
 
         <p className="text-base md:text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        Continuing my journey, I joined Techbets Infotech as a web developer, where I honed my skills in technologies such as PostgreSQL, Node.js, Express.js for the backend, and Angular for the frontend. I am always enthusiastic about expanding my skillset, seeking new challenges that push me to grow both personally and professionally in the field of web development.
         </p>
       </div>
     </div>
