@@ -1,6 +1,5 @@
 import React from 'react-icons/fa';
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import {HiOutlineMail} from 'react-icons/hi';
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import { MdOutlineMail } from 'react-icons/md';
 
