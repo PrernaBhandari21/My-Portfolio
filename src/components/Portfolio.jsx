@@ -1,6 +1,7 @@
 import React from 'react'
 import amazonClone from "../assets/portfolio/Amazon-clone.png";
 import netflixClone from "../assets/portfolio/Netflix-clone.png";
+import adminDashboard from "../assets/portfolio/Admin-Dashboard.png";
 
 
 const Portfolio = () => {
@@ -18,7 +19,12 @@ const Portfolio = () => {
             demoSrc:"https://clone-c9f72.web.app/",
             codeSrc:"https://github.com/PrernaBhandari21/Amazon-clone"
         },
-       
+       {
+        id: 3,
+        src : adminDashboard, 
+        demoSrc : "https://main--teal-alpaca-114fa7.netlify.app/",
+        codeSrc : "https://github.com/PrernaBhandari21/react-dashboard"
+       }
         
        
       
